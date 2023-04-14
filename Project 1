@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="with=device-width, initial-scale=1.0">
+	<title>adolrable pen</title>
+	<link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap" rel="stylesheet">
+   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<body> 
+	<section class="header">
+        <nav> 
+            <a href="school.html"><img src="images/grad cap.png"></a>
+            <div class="nav-links" id="navLinks">
+                <i class="fa fa-times" onclick="hideMenu()"></i>
+                <ul>
+                <li><a href="school.html">HOME</a></li>
+                    <li><a href="About.html">ABOUT</a></li>
+                    <li><a href="course.html">COURSE</a></li>
+                    <li><a href="Blog.html">BLOG</a></li>
+                    <li><a href="Contact.html">CONTACT</a></li>
+                </ul>
+            </div>
+            <i class="fa fa-bars" onclick="showMenu()"></i>
+        </nav>
+    <div class="text-box">
+        <h1>Adolrable Pen Academy</h1>
+        <p>Welcome to the World where Legends are mad. Your first step is to define yourself. <br>Your destiny is to redefine the world.</p>
+        <br>
+        <a href="" class="hero-btn">Visit US To Learn More</a>
+        </div>
+		
+	</section>
+    
+    <!--------- Course -------->
+    
+    <section class="course">
+    <h1>Courses We Offer</h1>
+        <p>Creative Writing, Content Writing. Script Writing, Magic Writing. Copy Writing, Language Literacy and Mechanical Engineering, Civil Engineering, Biomedical Engineering, Environmental Engineering, Automotive Engineering, Aerospace Engineering, Computer Engineering are also some of the popular study domains in this country.</p>
+        
+        <div class="row">
+            <div class="course-col">
+            <h3>Intermediate</h3>
+                <p>Creative Writing, Content Writing. Script Writing, Magic Writing. Copy Writing, Language Literacy and Mechanical Engineering, Civil </p>
+            </div>
+         <div class="course-col">
+    <h3>Degree</h3>
+          <p>Creative Writing, Content Writing. Script Writing, Magic Writing. Copy Writing, Language Literacy and Mechanical Engineering.</p>
+            </div>
+             <div class="course-col">
+    <h3>Post Graduate</h3>
+       <p>Creative Writing, Content Writing. Script Writing, Magic Writing. Copy Writing, Language Literacy, Environmental Engineering, Automotive Engineering, Aerospace Engineering, and Computer Engineering.</p>
+            </div>
+        </div>
+        
+    </section>
+    
+    <!----- campus ----->
+    
+    <section class="campus">
+        
+        <h1>Our Globa Capus</h1>
+        <p>Creative Writing, Content Writing. Script Writing</p>
+        
+        <div class="row">
+        <div class="campus-col">
+            <img src="images/tower 1.png">
+            <div class="layer">
+                <h3>LONDON</h3>
+            </div>
+            </div>
+            <div class="campus-col">
+            <img src="images/tow%202.jpg">
+            <div class="layer">
+                <h3>NEW YORK</h3>
+            </div>
+                </div>
+                <div class="campus-col">
+            <img src="images/tower%204.jpg">
+            <div class="layer">
+                <h3>WASHINGTON</h3>
+            </div>
+        </div>
+        
+    </section>
+    
+        <!----- Facilities ----->
+        <section class="facilities">
+            
+            <h1>Our Facilities</h1>
+            <p>As we give ourself and commit our best in acaemics, we thrive to becoming the best in all we do, and that is why we are the best among the rest. With modern facilities. well equiped Library, Scientific Laboratory and photography studio. Come, Learn, Live to Thrive at APA.</p>
+            <div class="row">
+            <div class="facilities-col">
+            <img src="images/shelf%201.webp">
+                <h3>World Class Laboratory</h3>
+                <p>Our experiential clinical learning program plays a significant role. We offer a wide-range of programs, from community-based clinics that foster critical analysis skills and expose students to access to medical issues, to competitive moots that build essential skills.</p>
+            </div>
+            <div class="facilities-col">
+            <img src="images/shelf%202.jpg">
+                <h3>World Class Library</h3>
+                <p>Our experiential clinical learning program plays a significant role. We offer a wide-range of programs, from community-based clinics that foster critical analysis skills and expose students to access to medical issues, to competitive moots that build essential skills.</p>
+            </div>
+        <div class="facilities-col">
+            <img src="images/facility%202.jpg">
+                <h3>World Class Playground</h3>
+                <p>Our experiential clinical learning program plays a significant role. We offer a wide-range of programs, from community-based clinics that foster critical analysis skills and expose students to access to medical issues, to competitive moots that build essential skills.</p>
+            </div>
+        
+            
+        </section>
+            <!------ testimonials ----->
+        
+            <section class="testimonials">
+                <h1>What Our Student Says</h1>
+                <p>Happy Teacher Appreciation Week to the most amazing teachers in the world! Thank you so much for all of your hard work and everything that you do for your students!#WeAreConcept.We Care</p>
+            <div class="row">
+                <div class="testimonials-col">
+                <img src="images/testimonial%201.jpg">
+                    <div>
+                    <p>I very much appreciate everything all of my teachers have done for me such as helping me when I’ve had problems with assignments, or just encouraging me to always try and by no means refrain from what I was originally doing.</p>
+                        <h3>Christine Berkley</h3>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-o"></i>
+                    </div>
+                </div>
+                  <div class="testimonials-col">
+                <img src="images/testimonial%202.jpg">
+                    <div>
+                    <p>I very much appreciate everything all of my teachers have done for me such as helping me when I’ve had problems with assignments, or just encouraging me to always try and by no means refrain from what I was originally doing.</p>
+                        <h3>Williams Aijaiz</h3>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                    </div>
+                    
+                </div>
+            </section>
+        
+        <!----- Call To Action ----->
+                
+        <section class="cta">
+                <h1>Enrol For Our Various online courses<br>Anywhere the World</h1>
+                    <a href="" class="hero-btn">CONTACT US</a> 
+        </section>
+                
+    <!----- Footer ----->
+                <section class="footer">
+                    <h4>About Us</h4>
+                    <p>When writing your About Us page, you don’t want to say the same things that appear on your Home page, and a long, detailed, historical summary will bore the reader<br>u also don’t want to sound like you’re boasting. As in most things, the best answer is to find the middle ground.</p>
+                    <div class="icons">
+                        <i class="fa fa-facebook"></i>
+                        <i class="fa fa-twitter" aria-hidden="true"></i>
+                        <i class="fa fa-instagram" aria-hidden="true"></i>
+                        <i class="fa fa-linkedin" aria-hidden="true"></i>
+                        <i class="fa fa-skype" aria-hidden="true"></i>
+                        <i class="fa fa-envelope" aria-hidden="true"></i>
+                    </div> 
+                    <p>Made with <i class="fa fa-heart-o"></i>by De-Williams Consult</p>
+                </section>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+    <!------JavaScripts for Toggle Menu-------->
+<script>
+                  var navLinks = document.getElementById("navLinks");
+    
+                        function showMenu(){
+                            navLinks.style.right = "0";
+                        }
+                    function hideMenu(){
+                         navLinks.style.right = "-200px"
+                    }
+                        
+    </script>
+</body>
+</html>  
